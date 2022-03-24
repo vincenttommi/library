@@ -1,0 +1,23 @@
+body{
+
+background: #FFC222;
+
+}
+
+.container{
+
+    max-width: 500px;
+    margin: 0 auto;
+    min-height: 500px;
+    background: #fff;
+    border-radius:4px;
+    padding: 6px;
+    margin-top:100px;
+    
+}
+
+.container-header{
+
+    text-align:center;
+    justify-content:center;
+}
